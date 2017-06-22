@@ -1,4 +1,4 @@
-# demo_17_bcss
+# Proof-of-Personhood demo at Blockchain-Summer-School 2017
 
 ## Cmd-reference
 
