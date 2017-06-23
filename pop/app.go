@@ -143,6 +143,8 @@ func orgConfig(c *cli.Context) error {
 	//log.ErrFatal(check.Servers(group), "Couldn't check servers")
 	log.ErrFatal(client.StoreConfig(mainConfig.Address, desc))
 	mainConfig.Final.Desc = desc
+	mainConfig.Final.Attendees = []abstract.Point{}
+	mainConfig.Final.Signature = []byte{}
 	writeConfig()
 	return nil
 }

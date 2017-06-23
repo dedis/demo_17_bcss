@@ -7,7 +7,7 @@ ATTS=""
 
 test -x pop || go build .
 if pgrep soffice > /dev/null; then
-	echo "Please quite all libreoffice/openoffice instances"
+	echo "Please quit all libreoffice/openoffice instances"
 	exit 1
 fi
 
