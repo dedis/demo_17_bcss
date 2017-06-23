@@ -5,6 +5,12 @@ IMG_PRIV=1000020100000190000001908A01F6F07EE83777.png
 OUT=$(pwd)
 ATTS=""
 
+test -x pop || go build .
+if pgrep soffice > /dev/null; then
+	echo "Please quite all libreoffice/openoffice instances"
+	exit 1
+fi
+
 for i in $( seq -f "%02g" ${1:-10} ); do
 	OFILE=$OUT/key$i.odg
 	rm -f $OFILE
