@@ -1,4 +1,7 @@
-Attendees = ["7Jj3xNn+ePIdC+y/tctwgseT1sFJ3wmu9oD4Y/vfgHA=", "XCADOgUPJY3Tu5mBCGi56z2TvF3dDHIOYXzBMVnUaM0=", "CEEYbZWM1AUhQyStS0cVaDbj2iFEiV7RA2lzgojrSm0="]
+Org: Final
+Final statement already here:
+ 
+Attendees = ["7FaUXi3erZbSSauxCJ+i+4/7Fu20X+ftTr6kLj2x5uU=", "XCADOgUPJY3Tu5mBCGi56z2TvF3dDHIOYXzBMVnUaM0=", "rgFfk9YYNRmLU25OF8CXf4OmIS1ZSl3wQ8iso3nlgnU=", "vkDCJ8j8tugV0WZzBOocRQ8wFTwSlVQ+ZlFmjvEqGn4="]
 Signature = "c2lnbmVk"
 
 [Desc]
@@ -6,3 +9,4 @@ Signature = "c2lnbmVk"
   DateTime = "2017-06-23 6:30pm UTC+2"
   Location = "Switzerland, Lausanne, EPFL, BC410"
   Roster = [["tcp://192.33.210.8:11002", "", "89ccb244-8bce-5f52-963c-1351fb10eac1", "OinCYF4TMFsCs3/rc8mfxu9C3oUsvjPai2lNgqPMy4M="], ["tcp://192.33.210.8:11004", "", "e8728c04-dee6-5a43-862c-32607c543e3e", "nvIJcctDBbsulzY3e0gUI7Q/Py7KDRD6UdKYyVlupCc="], ["tcp://192.33.210.8:11006", "", "0960017b-5e24-507b-8623-368026eaa167", "i6CDSWy+tk+060uMpALQMmCtTWKi8T4FtiAJLwUOFD0="]]
+

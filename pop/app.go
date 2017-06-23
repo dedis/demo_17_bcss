@@ -163,7 +163,6 @@ func orgPublic(c *cli.Context) error {
 	str = strings.Replace(str, "[", "", -1)
 	str = strings.Replace(str, "]", "", -1)
 	str = strings.Replace(str, "\\", "", -1)
-	log.Print(str)
 	keys := strings.Split(str, ",")
 	for _, k := range keys {
 		pub := service.B64ToPoint(k)
