@@ -1,0 +1,92 @@
+[
+    {
+      "ID": 0,
+      "Title": "Welcome",
+      "Persons": "Bryan Ford and Srdjan Capkun",
+      "Date": "2017-06-21 10:00:00"
+    },
+     {
+      "ID": 1,
+      "Title": "Town Crier: An Authenticated Data Feed for Smart Contracts",
+      "Persons": "Ari Juels",
+      "Date": "2017-06-21 11:00:00"
+    },
+    {
+      "ID": 2,
+      "Title": "Protocols for Secure Distributed Computing",
+      "Persons": "Christian Cachin",
+      "Date": "2017-06-21 13:00:00"
+    },
+    {
+      "ID": 3,
+      "Title": "Introduction To Ethereum",
+      "Persons": "Joseph Bonneau",
+      "Date": "2017-06-21 15:30:00"
+    },
+    {
+      "ID": 4,
+      "Title": "Exercices",
+      "Persons": "Arthur Gervais",
+      "Date": "2017-06-21-22 17:30:00"
+    },
+    {
+      "ID": 5,
+      "Title": "Advanced Topics on Smart Contracts",
+      "Persons": "Andrew Miller",
+      "Date": "2017-06-22 10:00:00"
+    },
+    {
+      "ID": 6,
+      "Title": "Diving into the DAO",
+      "Persons": "Emin Gün Sirer",
+      "Date": "2017-06-22 13:00:00"
+    },
+    {
+      "ID": 7,
+      "Title": "Anonymity in Cryptocurrencies",
+      "Persons": "Sarah Meiklejohn",
+      "Date": "2017-06-22 14:00:00"
+    },
+    {
+      "ID": 8,
+      "Title": "Byzantine Vertical Paxos: A Foundational Approach to Reconfiguration",
+      "Persons": "Dahlia Malkhi",
+      "Date": "2017-06-22 15:30:00"
+    },
+    {
+      "ID": 9,
+      "Title": "The Hyperledger Fabric V1",
+      "Persons": "Marco Vukolic",
+      "Date": "2017-06-22 16:30:00"
+    },
+    {
+      "ID": 10,
+      "Title": "Blockchain Design Choices: A Distributed Computing Perspective",
+      "Persons":  "Ittai Abraham",
+      "Date": "2017-06-23 10:00:00"
+    },
+    {
+      "ID": 11,
+      "Title": "Alternative Architectures for Distributed Ledgers",
+      "Persons":  "Sarah Meiklejohn",
+      "Date": "2017-06-23 11:00:00"
+    },
+    {
+      "ID": 12,
+      "Title": "Proving the security of Blockchain Protocols: From Proof of Work to Proof of Stake I",
+      "Persons":  "Aggelos Kiayias",
+      "Date": "2017-06-23 13:00:00"
+    },
+    {
+      "ID": 13,
+      "Title": "Scaling Bitcoin, On- and Off-Chain",
+      "Persons":  "Emin Gün Sirer",
+      "Date": "2017-06-23 15:30:00"
+    },
+    {
+      "ID": 14,
+      "Title": "Exercises – Andrew Miller & Joseph Bonneau",
+      "Persons":  "Andrew Miller & Joseph Bonneau",
+      "Date": "2017-06-23 16:30:00"
+    }
+]
