@@ -16,7 +16,7 @@ import (
 	"encoding/json"
 
 	"github.com/BurntSushi/toml"
-	"github.com/dedis/archives/pop/service"
+	"github.com/dedis/demo_17_bcss/pop/service"
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
 	"github.com/gorilla/securecookie"
