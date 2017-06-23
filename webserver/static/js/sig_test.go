@@ -5,8 +5,8 @@ import (
 	"testing"
 
 	"github.com/BurntSushi/toml"
-	"github.com/dedis/crypto/ed25519"
-	"github.com/dedis/crypto/random"
+	"gopkg.in/dedis/crypto.v0/ed25519"
+	"gopkg.in/dedis/crypto.v0/random"
 	"github.com/stretchr/testify/assert"
 	"gopkg.in/dedis/onet.v1/crypto"
 )

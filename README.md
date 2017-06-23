@@ -42,5 +42,4 @@ following readme: [pop/README.md]
 For further reading, here some papers that have been written by the DEDIS-group:
 
 * First ideas of pseudonym parties: http://www.brynosaurus.com/log/2007/0327-PseudonymParties.pdf
-* Proof-of-Personhood
 * Proof-of-Personhood: Redemocratizing Permissionless Cryptocurrencies: https://zerobyte.io/publications/2017-BKJGGF-pop.pdf

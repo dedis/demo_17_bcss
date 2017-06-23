@@ -65,7 +65,7 @@ func main() {
 			Name:      "check",
 			Aliases:   []string{"c"},
 			Usage:     "Check if the servers in the group definition are up and running",
-			ArgsUsage: "group.toml",
+			ArgsUsage: "public.toml",
 			Action:    checkConfig,
 		},
 	}
